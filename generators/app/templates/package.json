@@ -1,0 +1,31 @@
+{
+  "name": "<%= answers.name %>",
+  "description": "The first cli",
+  "version": "1.0.0",
+  "keywords": [
+    "toolkit",
+    "cli"
+  ],
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "bin": {
+    "<%= answers.command %>": "./bin/<%= answers.command %>.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "engine-strict": true,
+  "engines": {
+    "node": ">= 0.12"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
