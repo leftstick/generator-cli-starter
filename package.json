@@ -1,7 +1,7 @@
 {
-  "name": "generator-cli-starter",
-  "version": "1.0.1",
-  "description": "generator-cli-starter",
+  "name": "generator-clistarter",
+  "version": "1.0.2",
+  "description": "generator-clistarter",
   "repository": {
     "type": "git",
     "url": "https://github.com/leftstick/generator-cli-starter.git"
